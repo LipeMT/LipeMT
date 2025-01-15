@@ -1,7 +1,7 @@
 # Luís Felipe Marques Tomé
 
 ### Desenvolvedor Frontend 🚀  
-Atualmente cursando o 6º período de **Engenharia de Computação** no Instituto Federal de Goiás (IFG).  
+Atualmente cursando o 7º período de **Engenharia de Computação** no Instituto Federal de Goiás (IFG).  
 Apaixonado por tecnologia, design de interfaces e desenvolvimento de aplicações web que impactam positivamente o mundo.
 
 ---
